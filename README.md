@@ -5,9 +5,17 @@ A tutorial on how to make your first chrome extension as seen on [Google develop
 
 Installation<br/>
 Usage<br/> 
-Contributing [Contributing] (https://github.com/dnorton94/my-chrome-extension/edit/master/README.md#Contributing)<br/> 
+Contributing<br/> 
 Credits<br/>
 License<br/>
 
+## Installation
+
+## Usage
+
 ## Contributing
+
+## Credits
+
+## License
 
