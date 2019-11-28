@@ -5,10 +5,10 @@ A simple chrome extension as seen on [Google developer site.](https://developer.
 ##### Table of contents
 
 [Installation](https://github.com/dnorton94/my-chrome-extension/blob/master/README.md#installation)<br/>
-Usage<br/> 
-Contributing<br/> 
-Authors<br/>
-License<br/>
+[Usage](https://github.com/dnorton94/my-chrome-extension/blob/master/README.md#usage)<br/> 
+[Contributing](https://github.com/dnorton94/my-chrome-extension/blob/master/README.md#contributing)<br/> 
+[Authors](https://github.com/dnorton94/my-chrome-extension/blob/master/README.md#authors)<br/>
+[License](https://github.com/dnorton94/my-chrome-extension/blob/master/README.md#license)<br/>
 
 ## Installation
 
