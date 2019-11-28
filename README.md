@@ -16,7 +16,7 @@ License<br/>
 
 ## Contributing
 
-Please see contributing file
+Please see [contributing file] (https://github.com/dnorton94/my-chrome-extension/blob/master/CONTRIBUTING.md)
 
 ## Authors
 
