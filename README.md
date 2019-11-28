@@ -4,7 +4,7 @@ A simple chrome extension as seen on [Google developer site.](https://developer.
 
 ##### Table of contents
 
-Installation<br/>
+[Installation](https://github.com/dnorton94/my-chrome-extension/blob/master/README.md#installation)<br/>
 Usage<br/> 
 Contributing<br/> 
 Authors<br/>
