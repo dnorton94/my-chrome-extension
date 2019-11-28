@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/dnorton94/mychromeextension#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "node": "^13.1.0"
   }
 }
