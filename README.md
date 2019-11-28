@@ -22,4 +22,4 @@ Please see [contributing file.](https://github.com/dnorton94/my-chrome-extension
 
 ## License
 
-Please see [license file.](https://github.com/dnorton94/my-chrome-extension/blob/master/CONTRIBUTING.md)
+Please see [license file.](https://github.com/dnorton94/my-chrome-extension/blob/master/LICENSE)
