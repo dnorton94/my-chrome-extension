@@ -7,7 +7,7 @@ A tutorial on how to make your first chrome extension as seen on [Google develop
 Installation<br/>
 Usage<br/> 
 Contributing<br/> 
-Credits<br/>
+Authors<br/>
 License<br/>
 
 ## Installation
@@ -16,7 +16,10 @@ License<br/>
 
 ## Contributing
 
-## Credits
+Please see contributing file
+
+## Authors
 
 ## License
 
+Please see license file
